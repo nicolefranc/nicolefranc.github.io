@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Noto+Sans:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .page-title {
+        @apply text-6xl font-bold
+    }
+
+    .icon {
+        @apply w-6 cursor-pointer
+    }
+
+    .project-item-wrapper {
+        @apply flex flex-col-reverse md:flex-row max-w-2xl mx-auto py-20 relative
+    }
+
+    .project-item-wrapper-reverse {
+        @apply flex flex-col-reverse max-w-2xl mx-auto py-20 relative md:flex-row-reverse md:text-right
+    }
+}

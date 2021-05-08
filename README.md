@@ -1,4 +1,4 @@
-# nicoleyu
+# Nicole Yu - Portfolio
 
 ## Project setup
 ```

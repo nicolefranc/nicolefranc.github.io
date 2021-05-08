@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "name": "Overdue",
+        "desc": "A web-based game created to showcase Singapore University of Technology and Design’s Fabrication Lab for the university’s Open House 2021.",
+        "path": "../assets/images/overdue/overdue-home.png",
+        "tech": [
+            "Phaser.js",
+            "Parcel"
+        ],
+        "links": [
+            {
+                "type": "github",
+                "url": "https://github.com/nicolefranc/sutd-fablab-game"
+            },
+            {
+                "type": "site",
+                "url": "https://overdue.sutd.edu.sg"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Virtual ADSS",
+        "desc": "Due to the pandemic, secondary school open house events were not allowed to be conducted physically. This website gives prospective students of Admiralty Secondary School and their parents a chance to explore the school virtually.",
+        "path": "/assets/images/virtual-adss-home.png",
+        "tech": [
+            "Gatsby",
+            "GSAP",
+            "Contentful"
+        ],
+        "links": [
+            {
+                "type": "github",
+                "url": "https;//github.com/nicolefranc/adss-openhouse"
+            },
+            {
+                "type": "site",
+                "url": "https://virtualadss.netlify.app"
+            }
+        ]
+    }
+]
