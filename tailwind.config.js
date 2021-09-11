@@ -6,7 +6,7 @@ module.exports = {
   darkMode: "media", // or false or 'class'
   theme: {
     fontFamily: {
-      sans: ["Noto Sans", "ui-sans-serif", "system-ui"],
+      sans: ["Noto Sans", "Avenir", "ui-sans-serif", "system-ui"],
       mono: ["Fira Code", "ui-monospace", "SFMono-Regular"],
     },
     screens: {
